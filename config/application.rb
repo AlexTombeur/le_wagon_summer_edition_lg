@@ -24,6 +24,4 @@ module LeWagonSummerEditionLg
   end
 end
 
- config.assets.precompile += [
- '_home.css'
- ]
+
