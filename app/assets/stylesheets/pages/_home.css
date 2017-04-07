@@ -10133,7 +10133,8 @@ button.close {
 
 /* line 7, /Users/anne/code/OObatwomanOO/le_wagon_by_night/source/stylesheets/pages/_home.scss */
 .filler {
-  height: 100px; }
+  height: 100px;
+  background-color: rgba(40, 40, 40, 0.3)}
 
 /* line 11, /Users/anne/code/OObatwomanOO/le_wagon_by_night/source/stylesheets/pages/_home.scss */
 .divider {
@@ -10471,11 +10472,15 @@ button.close {
   height: 200px;
   text-align: center;
   color: #bbb;
-  font-weight: 100; }
+  font-weight: 100;
+  background-color: rgba(40, 40, 40, 0.3);
+   }
   /* line 310, /Users/anne/code/OObatwomanOO/le_wagon_by_night/source/stylesheets/pages/_home.scss */
   .footer .copyright {
     padding-top: 130px;
-    font-size: 10pt; }
+    font-size: 12pt;
+    color: white;
+    font-weight: 20px;}
 
 /*
 ==============================================
